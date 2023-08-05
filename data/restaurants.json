@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Test",
+    "address": "Teststreet 5, Testcity",
+    "cuisine": "Italian",
+    "website": "https://mytest.com",
+    "description": "It's awesome!",
+    "id": "r1"
+  },
+  {
+    "name": "Test 2",
+    "address": "Teststreet 10, Testcity 2",
+    "cuisine": "Indian",
+    "website": "https://mygreattest.com",
+    "description": "It's also amazing!",
+    "id": "r2"
+  },
+  {
+    "name": "Restaurant 3",
+    "address": "Awesomestreet 5, Mycity",
+    "cuisine": "German",
+    "website": "https://awesome.com",
+    "description": "It's amazing! Of course!",
+    "id": "r3"
+  },
+  {
+    "name": "ASPAVA",
+    "address": "Emek Ankara",
+    "cuisine": "Turkish Kebap",
+    "website": "http://aspava.net",
+    "description": "bol ikram",
+    "id": "7dfc72ea-05ba-4e3b-b4c2-8b43540ace0c"
+  },
+  {
+    "name": "Cici piknik",
+    "address": "kizilay ankara",
+    "cuisine": "doner kebap",
+    "website": "http://cicipiknik.com",
+    "description": "odun atesi doner",
+    "id": "772c00f5-5339-4bc6-8877-538a939e80d5"
+  }
+]
